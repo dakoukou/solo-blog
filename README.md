@@ -10,8 +10,6 @@ dakoukou 的个人博客
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://liuzphi.com/my-github-repos)
-* [测试](https://liuzphi.com/articles/2019/11/22/1574409141731.html)
 * [世界，你好！](https://liuzphi.com/hello-solo)
 
 
